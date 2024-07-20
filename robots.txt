@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trusewina.github.io/sitemap
+Sitemap: https://trusewina.github.io/app/sitemap
+Sitemap: https://trusewina.github.io/assets/sitemap
+Sitemap: https://trusewina.github.io/css/sitemap
+Sitemap: https://trusewina.github.io/includes/sitemap
+Sitemap: https://trusewina.github.io/item/sitemap
+Sitemap: https://trusewina.github.io/src/sitemap
